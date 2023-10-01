@@ -1,0 +1,20 @@
+[2023-10-01 11:07:47,207]96 werkzeug -WARNING -  * Debugger is active!
+[2023-10-01 11:07:47,210]96 werkzeug -INFO -  * Debugger PIN: 239-673-913
+[2023-10-01 11:07:51,211]58 root -INFO - customdata taken
+[2023-10-01 11:07:51,211]65 root -INFO - formation of dataframe start
+[2023-10-01 11:07:51,212]81 root -INFO - dataframe gather for prediction
+[2023-10-01 11:07:51,212]17 root -INFO - predict start
+[2023-10-01 11:07:51,340]28 root -INFO - predict value return
+[2023-10-01 11:07:51,347]96 werkzeug -INFO - 127.0.0.1 - - [01/Oct/2023 11:07:51] "POST /predict HTTP/1.1" 200 -
+[2023-10-01 11:07:59,827]58 root -INFO - customdata taken
+[2023-10-01 11:07:59,827]65 root -INFO - formation of dataframe start
+[2023-10-01 11:07:59,834]81 root -INFO - dataframe gather for prediction
+[2023-10-01 11:07:59,834]17 root -INFO - predict start
+[2023-10-01 11:07:59,870]28 root -INFO - predict value return
+[2023-10-01 11:07:59,874]96 werkzeug -INFO - 127.0.0.1 - - [01/Oct/2023 11:07:59] "POST /predict HTTP/1.1" 200 -
+[2023-10-01 11:08:13,860]58 root -INFO - customdata taken
+[2023-10-01 11:08:13,860]65 root -INFO - formation of dataframe start
+[2023-10-01 11:08:13,862]81 root -INFO - dataframe gather for prediction
+[2023-10-01 11:08:13,862]17 root -INFO - predict start
+[2023-10-01 11:08:13,900]28 root -INFO - predict value return
+[2023-10-01 11:08:13,904]96 werkzeug -INFO - 127.0.0.1 - - [01/Oct/2023 11:08:13] "POST /predict HTTP/1.1" 200 -

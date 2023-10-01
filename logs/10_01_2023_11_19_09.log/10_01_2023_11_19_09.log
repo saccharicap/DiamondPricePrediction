@@ -1,0 +1,10 @@
+[2023-10-01 11:19:10,284]96 werkzeug -WARNING -  * Debugger is active!
+[2023-10-01 11:19:10,286]96 werkzeug -INFO -  * Debugger PIN: 239-673-913
+[2023-10-01 11:19:17,392]96 werkzeug -INFO - 127.0.0.1 - - [01/Oct/2023 11:19:17] "GET /predict HTTP/1.1" 200 -
+[2023-10-01 11:19:17,440]96 werkzeug -INFO - 127.0.0.1 - - [01/Oct/2023 11:19:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-10-01 11:19:28,281]58 root -INFO - customdata taken
+[2023-10-01 11:19:28,281]65 root -INFO - formation of dataframe start
+[2023-10-01 11:19:28,282]81 root -INFO - dataframe gather for prediction
+[2023-10-01 11:19:28,282]17 root -INFO - predict start
+[2023-10-01 11:19:28,706]28 root -INFO - predict value return
+[2023-10-01 11:19:28,708]96 werkzeug -INFO - 127.0.0.1 - - [01/Oct/2023 11:19:28] "POST /predict HTTP/1.1" 200 -

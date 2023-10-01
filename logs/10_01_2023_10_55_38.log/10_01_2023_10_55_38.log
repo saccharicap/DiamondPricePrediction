@@ -1,0 +1,3 @@
+[2023-10-01 10:55:39,420]96 werkzeug -WARNING -  * Debugger is active!
+[2023-10-01 10:55:39,428]96 werkzeug -INFO -  * Debugger PIN: 239-673-913
+[2023-10-01 10:55:49,462]96 werkzeug -INFO -  * Detected change in 'D:\\DiamondPricePrediction\\application.py', reloading
